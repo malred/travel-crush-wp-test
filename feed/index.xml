@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>TrushCrush</title>
+	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Wed, 21 Aug 2024 14:26:11 +0000</lastBuildDate>
+	<language>zh-CN</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+	<item>
+		<title>测试文章</title>
+		<link>/70/</link>
+					<comments>/70/#respond</comments>
+		
+		<dc:creator><![CDATA[malred]]></dc:creator>
+		<pubDate>Wed, 21 Aug 2024 14:26:11 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=70</guid>
+
+					<description><![CDATA[测试中文url]]></description>
+										<content:encoded><![CDATA[
+<p>测试中文url</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/70/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>If you&#8217;re looking for an island paradise, look no further than Koh Phi Phi.</title>
+		<link>/6/</link>
+					<comments>/6/#respond</comments>
+		
+		<dc:creator><![CDATA[malred]]></dc:creator>
+		<pubDate>Wed, 21 Aug 2024 10:03:52 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=6</guid>
+
+					<description><![CDATA[This stunning island is located in Thailand and is know [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>This stunning island is located in Thailand and is known for its crystal-clear waters, white sand beaches, and lush jungle landscape.</p>
+<p>&nbsp;</p>
+<p>Koh Phi Phi is a popular tourist destination and with good reason! Whether you&#8217;re looking for a quiet getaway or an action-packed vacation, this island has something to offer everyone.</p>
+<p>&nbsp;</p>
+<p>If you&#8217;re planning a trip to Koh Phi Phi, be sure to add these activities to your list:</p>
+<p>&nbsp;</p>
+<ul>
+<li>Relax on the beach: With its soft sand and clear waters, Koh Phi Phi is the perfect place to relax and soak up the sun. Don&#8217;t forget to enjoy a refreshing coconut while you&#8217;re here!</li>
+</ul>
+<p>&nbsp;</p>
+<ul>
+<li>Go snorkelling or diving: The waters around Koh Phi Phi are teeming with marine life, making it a perfect spot for snorkelling and diving.</li>
+</ul>
+<p>&nbsp;</p>
+<ul>
+<li>Explore the jungle: The island is covered in lush jungle, which is perfect for exploring. Be sure to keep an eye out for monkeys!</li>
+</ul>
+<p>&nbsp;</p>
+<ul>
+<li>Visit Maya Bay: Maya Bay is one of the most popular tourist attractions on Koh Phi Phi. This beautiful bay was made famous by the movie The Beach, and it&#8217;s easy to see why.</li>
+</ul>
+<p>&nbsp;</p>
+<p>Koh Phi Phi is an incredible island that should be on everyone&#8217;s travel list. Whether you&#8217;re looking for a relaxing vacation or an action-packed adventure, this island has something to offer everyone. Ready? Get that flight booked&#8230;just don&#8217;t forget your camera!</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/6/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Hello world!</title>
+		<link>/1/</link>
+					<comments>/1/#comments</comments>
+		
+		<dc:creator><![CDATA[malred]]></dc:creator>
+		<pubDate>Wed, 21 Aug 2024 09:30:16 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=1</guid>
+
+					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or  [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/1/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
